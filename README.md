@@ -1,4 +1,4 @@
-[![MasterHead](http://www.google.com/url?sa=i&url=https%3A%2F%2Fmehmetcantas.medium.com%2Fc-9-ile-gelen-yeniliklere-bir-g%25C3%25B6z-atal%25C4%25B1m-a364f3b9fb41&psig=AOvVaw0FrFh6qTtETwnHHG87DWLx&ust=1764598527414000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCzkPWHmpEDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2Fdocs%2Flanguages%2Fcsharp&psig=AOvVaw0FrFh6qTtETwnHHG87DWLx&ust=1764598527414000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCzkPWHmpEDFQAAAAAdAAAAABAL)
 <h1 align="center">Hi 👋, I'm Ömer Aydın</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
